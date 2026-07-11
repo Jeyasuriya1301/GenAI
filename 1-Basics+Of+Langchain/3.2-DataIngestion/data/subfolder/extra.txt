@@ -1,3 +1,0 @@
-This is an extra text file inside a subfolder.
-DirectoryLoader with glob="**/*.txt" will pick this up recursively along with
-sample.txt in the parent folder.
