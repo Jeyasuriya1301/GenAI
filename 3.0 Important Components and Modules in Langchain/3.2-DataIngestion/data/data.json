@@ -1,0 +1,5 @@
+[
+  {"id": 1, "title": "Intro to RAG", "content": "RAG grounds LLM answers in retrieved documents."},
+  {"id": 2, "title": "Vector Stores", "content": "Vector databases store embeddings for fast similarity search."},
+  {"id": 3, "title": "Chunking", "content": "Splitting documents into chunks helps them fit the context window."}
+]
