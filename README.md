@@ -14,10 +14,10 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 
 > Changing the execution policy with `-ExecutionPolicy ByPass` allows running a script downloaded from the internet.
 
-### 2. Install Python 3.13.5
+### 2. Install Python 3.13.14
 
 ```powershell
-uv python install 3.13.5
+uv python install 3.13.14
 ```
 
 ### 3. Create the project directory
@@ -52,3 +52,5 @@ To install a new package, add it to `requirements.txt`, then install all depende
 ```powershell
 uv pip install -r requirements.txt
 ```
+
+https://artificialanalysis.ai/
